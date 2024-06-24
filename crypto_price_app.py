@@ -13,8 +13,8 @@ import json
 st.set_page_config(layout='wide')
 
 ## Insert logo
-#image = Image.open('logo.jpg')
-#st.image(image, width=500)
+image = Image.open('logo.jpg')
+st.image(image, width=500)
 
 
 # Title
